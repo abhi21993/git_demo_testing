@@ -1,4 +1,8 @@
 helloworld
 helloworld 1b
 hello world - 2nd commit
+<<<<<<< HEAD
 adding some changes to file1.txt
+=======
+adding this line in feature_2
+>>>>>>> feature_2
